@@ -226,7 +226,7 @@ function App() {
                             textAlign: 'center',
                         }}
                     >
-                        Created by Pathfinder Creations
+                        Created by Pathfinder.com
                     </Footer>
                 </Layout>
             </Layout>
